@@ -1,2 +1,4 @@
 # Secure-Vault
-Simple python programme that geenrates and encrypts passwords
+SecureVault is a Python-based cybersecurity learning project designed to demonstrate and explore core principles of digital security, including authentication, encryption, and secure data handling. The project was built to gain hands-on experience with how sensitive information can be protected in real-world systems.
+One of the main learning outcomes was understanding password security through hashing. By using SHA-256 hashing via the hashlib library, I learned how passwords can be transformed into irreversible values, ensuring that plain-text passwords are never stored. This highlighted the importance of secure authentication systems used in modern applications.
+Another key learning area was encryption and decryption using the cryptography library. I implemented Fernet encryption to secure user notes, which helped me understand symmetric encryption and how data can be protected during storage and access. This reinforced the concept of confidentiality in cybersecurity.
